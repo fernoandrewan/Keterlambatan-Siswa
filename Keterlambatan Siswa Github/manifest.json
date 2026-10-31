@@ -1,0 +1,101 @@
+{
+  "id": "./index.html",
+  "name": "Pencatatan Keterlambatan Siswa — SMK Negeri 1 Bitung",
+  "short_name": "Keterlambatan",
+  "description": "Catat, kelola, dan bagikan data keterlambatan siswa SMK Negeri 1 Bitung. Berjalan offline; data tersimpan aman di perangkat Anda.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "id",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "screenshots": [
+    {
+      "src": "icons/shot-desktop-1.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Beranda di komputer: Membuat, Melihat, dan Ekspor/Impor Data"
+    },
+    {
+      "src": "icons/shot-desktop-2.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tabel data keterlambatan siswa di komputer"
+    },
+    {
+      "src": "icons/shot-desktop-3.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Daftar kumpulan data dalam tema gelap"
+    },
+    {
+      "src": "icons/shot-tablet-1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Beranda di tablet"
+    },
+    {
+      "src": "icons/shot-tablet-2.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tabel data keterlambatan siswa di tablet (tema gelap)"
+    },
+    {
+      "src": "icons/shot-phone-1.png",
+      "sizes": "780x1688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Beranda di ponsel: Membuat, Melihat, dan Ekspor/Impor Data"
+    },
+    {
+      "src": "icons/shot-phone-2.png",
+      "sizes": "780x1688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Detail data keterlambatan siswa di ponsel"
+    },
+    {
+      "src": "icons/shot-phone-3.png",
+      "sizes": "780x1688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Ekspor dan impor data cadangan (tema gelap)"
+    }
+  ]
+}
